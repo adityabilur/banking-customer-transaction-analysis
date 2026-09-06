@@ -1,0 +1,19 @@
+# Java
+banking-system/target/
+*.class
+
+# Node
+banking-frontend/node_modules/
+banking-frontend/dist/
+
+# Environment / secrets
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
